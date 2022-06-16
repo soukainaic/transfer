@@ -2,9 +2,9 @@
 
   "ads":[
     {
-      "AdmobInterstitial":"ca-app-pub-5192218215841794/7179115237",
-      "AdmobBanner":"ca-app-pub-5192218215841794/6057605254",
-      "AdmobNative" : "ca-app-pub-5192218215841794/1188970692",
+      "AdmobInterstitial":"",
+      "AdmobBanner":"",
+      "AdmobNative" : "",
 
       "FaceInterstitial":"",
       "FaceBanner":"",
@@ -26,7 +26,7 @@
 	  
 	  
      // admob or fan or max or unity or iron
-      "Network":"admob"
+      "Network":"unity"
 	  
  
     }
